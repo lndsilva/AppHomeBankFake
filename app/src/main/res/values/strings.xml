@@ -7,4 +7,5 @@
     <string name="forgout_password"><U>Forgout Password?</U></string>
     <string name="new_to_bank_app">New to Bank App?</string>
     <string name="sign_up"><U>Sign Up</U></string>
+    <string name="connect_to_your_bank_account">Connect to your bank account</string>
 </resources>
