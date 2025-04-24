@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name">Bank Fake</string>
     <string name="welcome">Welcome!</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
