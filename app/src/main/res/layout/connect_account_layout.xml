@@ -147,14 +147,22 @@
             app:backgroundTint="#095284"
             app:cornerRadius="5sp" />
 
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginEnd="100dp"
+            android:text="By signing up, you agree to banks Term of use and Privacy Policy" />
+
+
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="300sp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="50sp"
             android:fontFamily="@font/roboto_variable"
-            android:text="@string/forgout_password"
+            android:text="@string/use_6_characteres_with_a_mix_of_letters_numbers_and_symbols"
             android:textAllCaps="false"
             android:textColor="#00BCD4"
             android:textSize="20sp" />
@@ -177,6 +185,8 @@
                 android:textColor="#000000"
                 android:textSize="20sp" />
 
+
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -189,6 +199,7 @@
                 android:textColor="#57D1E1"
                 android:textSize="20sp" />
         </LinearLayout>
+
 
 
     </LinearLayout>

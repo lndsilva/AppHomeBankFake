@@ -11,4 +11,5 @@
     <string name="your_name">Your name</string>
     <string name="bank_account">Bank account</string>
     <string name="e_mail">E-mail</string>
+    <string name="use_6_characteres_with_a_mix_of_letters_numbers_and_symbols">Use 6 characteres with a mix of letters, numbers and symbols</string>
 </resources>
