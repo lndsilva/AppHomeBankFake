@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="70sp"
-            android:hint="@string/username_or_email"
+            android:hint="@string/your_name"
             android:textAlignment="center"
             app:boxCornerRadiusBottomEnd="10sp"
             app:boxCornerRadiusBottomStart="10sp"
@@ -83,7 +83,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10sp"
-            android:hint="@string/password"
+            android:hint="@string/bank_account"
             android:textAlignment="center"
             app:boxCornerRadiusBottomEnd="10sp"
             app:boxCornerRadiusBottomStart="10sp"
@@ -93,8 +93,8 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:inputType="textPassword"
-                android:maxLength="12" />
+                android:inputType="number"
+                android:maxLength="20" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -103,7 +103,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10sp"
-            android:hint="@string/password"
+            android:hint="@string/e_mail"
             android:textAlignment="center"
             app:boxCornerRadiusBottomEnd="10sp"
             app:boxCornerRadiusBottomStart="10sp"
@@ -113,7 +113,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:inputType="textPassword"
+                android:inputType="textEmailAddress"
                 android:maxLength="12" />
 
         </com.google.android.material.textfield.TextInputLayout>

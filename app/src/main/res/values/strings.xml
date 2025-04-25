@@ -8,4 +8,7 @@
     <string name="new_to_bank_app">New to Bank App?</string>
     <string name="sign_up"><U>Sign Up</U></string>
     <string name="connect_to_your_bank_account">Connect to your bank account</string>
+    <string name="your_name">Your name</string>
+    <string name="bank_account">Bank account</string>
+    <string name="e_mail">E-mail</string>
 </resources>
